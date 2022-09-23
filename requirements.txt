@@ -75,7 +75,7 @@ pipreqs==0.4.10
 plainbox==0.25
 prometheus-client==0.8.0
 prompt-toolkit==2.0.10
-protobuf==3.11.3
+protobuf==3.18.3
 ptyprocess==0.5
 pyasn1==0.1.9
 pycups==1.9.73
